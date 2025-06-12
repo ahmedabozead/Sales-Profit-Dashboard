@@ -6,7 +6,7 @@ This dashboard focuses on analyzing sales and profits for 2024, segmented by mon
 ## 📁 Files Included
 | File Name                  | Description                                 |
 |---------------------------|---------------------------------------------|
-| `supermarket_sales.pbix`  | Power BI report file                        |
+| `sales and profit made.pbix`  | Power BI report file                        |
 | `screenshot.png`          | Dashboard preview image                     |
 | `README.md`               | This project description                    |
 
@@ -24,7 +24,7 @@ This dashboard focuses on analyzing sales and profits for 2024, segmented by mon
 
 ## 👨‍💻 Project By
 **Ahmed Abozead**  
-[GitHub Profile](https://github.com/your-username)  
+[GitHub Profile](https://github.com/ahmedabozead)  
 *Data Analyst | Power BI Developer*
 
 ## ✅ How to Use
